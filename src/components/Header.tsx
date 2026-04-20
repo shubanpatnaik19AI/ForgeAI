@@ -18,7 +18,7 @@ export function Header({ page, onNavigate }: HeaderProps) {
             <Zap size={16} className="text-white" strokeWidth={2.5} />
           </div>
           <span className="font-bold text-gray-900 text-lg tracking-tight">
-            Forge<span className="text-blue-600">AI</span>
+            LightYears<span className="text-blue-600">AI</span>
           </span>
         </button>
 

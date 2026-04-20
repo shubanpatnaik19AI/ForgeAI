@@ -65,12 +65,12 @@ export function LandingPage({ onNavigate }: LandingPageProps) {
             Build websites
             <br />
             <span className="bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-              from a single prompt
+              lightyears faster
             </span>
           </h1>
 
           <p className="text-xl text-gray-500 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Describe your vision, and ForgeAI will generate a fully functional,
+            Describe your vision, and LightYears AI will generate a fully functional,
             beautifully designed website in seconds. No code required.
           </p>
 
@@ -109,7 +109,7 @@ export function LandingPage({ onNavigate }: LandingPageProps) {
               <div className="text-center">
                 <div className="inline-flex items-center gap-3 bg-white/10 backdrop-blur rounded-2xl px-8 py-5 mb-6">
                   <Zap className="text-cyan-400" size={28} />
-                  <span className="text-white font-bold text-2xl">ForgeAI Studio</span>
+                  <span className="text-white font-bold text-2xl">LightYears AI Studio</span>
                 </div>
                 <p className="text-gray-400 text-sm">Your generated website appears here</p>
                 <div className="mt-6 flex justify-center gap-3">
@@ -201,7 +201,7 @@ export function LandingPage({ onNavigate }: LandingPageProps) {
             <div className="w-6 h-6 bg-gradient-to-br from-blue-600 to-cyan-500 rounded-md flex items-center justify-center">
               <Zap size={12} className="text-white" strokeWidth={2.5} />
             </div>
-            <span className="text-gray-400 text-sm font-medium">ForgeAI</span>
+            <span className="text-gray-400 text-sm font-medium">LightYears AI</span>
           </div>
           <p className="text-gray-600 text-sm">Built with Claude AI</p>
         </div>
